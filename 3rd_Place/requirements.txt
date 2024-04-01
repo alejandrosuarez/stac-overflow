@@ -10,3 +10,4 @@ opencv
 torch
 pytorch-lightning
 segmentation-models-pytorch
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
